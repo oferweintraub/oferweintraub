@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oferweintraub (Ofer Weintraub) - Originally did my Ph.D. on Solid State Magnetic Resonance Imaging but doing AI/ML projects in the last ~ 10 years. 
-- 👀 I’m interested in NLP and mainly in methods for creating synthetic data for various NLP tasks. I'm also very much interested in how Transformers can be applied to healthcare challneges 
-- 🌱 I’m currently learning and working wit all sorts of Transformers-based models to enhance NLP tasks
-- 💞️ I’m looking to collaborate on noisy methods for syntehtic data enhancements (noisy in the sense that labels generated are not perfect) 
+- 👀 I’m interested in NLP and mainly in methods for creating synthetic data for various NLP tasks and use Transformers for Information Extraction.
+
 - 📫 How to reach me - ofer.weintraub@deep.it
 
 <!---
