@@ -1,10 +1,5 @@
-- Hi, I’m @oferweintraub (Ofer Weintraub) - Originally did my Ph.D. on Solid State Magnetic Resonance Imaging but doing AI/ML projects in the last ~ 10 years. 
-- I’m interested in NLP tasks and mostly in:
--   Methods for creating synthetic data for Transformers fine-tuning
--   Using Transformers for Information Extraction, QUuestion-Answering and Summarization
--   Apply Information Extraction go gain knowledge from medical research
-
-- 📫 How to reach me - ofer.weintraub@deep.it
+Mostly interested in almost everything AI (and hsometimes humans too)
+- 📫 How to reach me - ofer.weint@gmail.com
 
 <!---
 oferweintraub/oferweintraub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
